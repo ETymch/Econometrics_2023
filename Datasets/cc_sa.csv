@@ -1,0 +1,26 @@
+"","Project.Future.Phase","Country","Region.x","Years","Development.Type.y","Development.Status.y","OPEC.Status","Production.x","Breakeven.Band","Commercial.Liquids.Remaining.Reserves..million.barrels.","Operating.Costs","expected","id","cs_prod"
+"1","NGL Adjustment","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",187.95,"<$20",0,0,0,1,187.95
+"2","Khurais Area","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",1557.930097,"<$20",21656.59,3.37078873649999,3.89326099065749,2,1745.880097
+"3","Shaybah","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",1307.092926,"<$20",19971.51,3.67451294699999,4.24406245378499,3,3052.973023
+"4","Ghawar","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",4750.518692,"<$20",48947.67,4.13657790249999,4.77774747738749,4,7803.491715
+"5","Ethane","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",305.6,"<$20",3901.08,4.32694195256871,4.99761795521686,5,8109.091715
+"6","Natural Gasoline","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",251,"<$20",3203.71,4.32694195256871,4.99761795521686,6,8360.091715
+"7","Berri","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",291.9310891,"<$20",3957.71,5.0132923135,5.7903526220925,7,8652.0228041
+"8","Manifa","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",924.5774385,"<$20",7652.86,5.3861634585,6.2210187945675,8,9576.6002426
+"9","ASL Fields","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",192.7278276,"<$20",547.65,5.9811483305,6.9082263217275,9,9769.3280702
+"10","AFK Group","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",492.6092097,"<$20",6544.13,6.17034091299999,7.12674375451499,10,10261.9372799
+"11","Marjan Complex","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",438.3932944,"<$20",6691.11,6.310884669,7.289071792695,11,10700.3305743
+"12","Abu Sa`fah","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",179.5154877,"<$20",1228.02,6.40323895899999,7.39574099764499,12,10879.846062
+"13","Abqaiq","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",330.2325716,"<$20",2430.58,6.4304932315,7.4272196823825,13,11210.0786336
+"14","Zuluf","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",662.7841009,"<$20",15548.16,6.808905911,7.864286327205,14,11872.8627345
+"15","Qatif","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",458.652078,"<$20",6083.32999999999,7.1206294275,8.2243269887625,15,12331.5148125
+"16","Safaniyah","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",1093.342926,"<$20",18457.62,7.4213976795,8.5717143198225,16,13424.8577385
+"17","Harmaliyah","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",119.6769918,"<$20",657.56,8.0328945885,9.2779932497175,17,13544.5347303
+"18","Fadhili Gas Project","Saudi Arabia","Middle East",2020,"Shallow Water","Under Development","OPEC",29.3,"$20-$25",343.98,0.0109643614999999,27.6525,18,13573.8347303
+"19","Karan","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",8,"$20-$25",43.44,4.142447158,27.6525,19,13581.8347303
+"20","Offshore Partitioned Zone","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",89.75774385,"$20-$25",793.65,14.5166523,27.6525,20,13671.59247415
+"21","South Ghawar NAG Fields","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",41.2,"$20-$25",222.14,2.5673427,27.6525,21,13712.79247415
+"22","Wasit Gas Project","Saudi Arabia","Middle East",2020,"Shallow Water","Onstream","OPEC",28.8,"$25-$30",179.87,0.0124241535,33.7975,22,13741.59247415
+"23","Onshore Partitioned Zone","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",96.50752619,"$30-$35",903.56,13.54902058,39.9425,23,13838.10000034
+"24","Saudi MTBE","Saudi Arabia","Middle East",2020,"GTL","Onstream","OPEC",80,"$55-$60",0,5.17430679726054,70.6675,24,13918.10000034
+"25","Unconventional Gas","Saudi Arabia","Middle East",2020,"Onshore","Onstream","OPEC",2.4,">$90",534.4,4.32694195256871,110.61,25,13920.50000034

@@ -1,0 +1,126 @@
+"","Project.Future.Phase","Country","Region.x","Years","Development.Type.y","Development.Status.y","OPEC.Status","Production.x","Production.y","Breakeven.Band","Commercial.Liquids.Remaining.Reserves..million.barrels.","Operating.Costs","expected","id","cs_prod"
+"1","NGL Adjustment","Canada (Alberta)","North America",2020,"Onshore","Onstream","Non-OPEC",902.5476973,902.547697347541,"<$20",9365.11606137382,0,0,1,1353.82154595
+"2","NGL Adjustment","Canada (Saskatchewan)","North America",2020,"Onshore","Onstream","Non-OPEC",16.8,16.8,"<$20",0,0,0,2,1379.02154595
+"3","Montney Pouce Coupe AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.331878729,0.331878728518405,"<$20",1.52198194931207,2.147728,2.48062584,3,1379.5193640435
+"4","Deep Basin Falher AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.082969682,0.0829696821296014,"<$20",0.133606706210081,2.270166,2.62204173,4,1379.6438185665
+"5","Deep Basin Glauconite AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.580787775,0.580787774907209,"<$20",2.36737503813006,2.646251,3.056419905,5,1380.515000229
+"6","Duvernay Kaybob Fox Creek","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.580787775,0.580787774907209,"<$20",2.30335825726131,3.706669,4.281202695,6,1381.3861818915
+"7","Cardium Ferrier Willesden Green","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",5.807877749,5.8078777490721,"<$20",25.9631426217921,3.793657,4.381673835,7,1390.097998515
+"8","Deep Basin Bluesky AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.497818093,0.497818092777608,"<$20",2.33707036173223,3.81301,4.40402655,8,1390.8447256545
+"9","Duvernay Simonette","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.082969682,0.0829696821296014,"<$20",0.170131706210081,3.839777,4.434942435,9,1390.9691801775
+"10","Montney Elmworth Karr AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",2.157211735,2.15721173536963,"<$20",8.80879248693058,3.891156,4.49428518,10,1394.20499778
+"11","Cardium Northwest AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",2.820969192,2.82096919240644,"<$20",12.7018646046859,4.070045,4.700901975,11,1398.436451568
+"12","Cardium Brazeau Stolberg AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.829696821,0.829696821296014,"<$20",3.5821585003633,4.289769,4.954683195,12,1399.6809967995
+"13","Duvernay Joffre Oil","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",2.986908557,2.98690855666565,"<$20",12.6480061117656,4.32,4.9896,13,1404.161359635
+"14","Duvernay Twining","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.829696821,0.829696821296014,"<$20",3.58353862483504,4.32,4.9896,14,1405.4059048665
+"15","Duvernay Pembina AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.165939364,0.165939364259202,"<$20",0.743418536891908,4.398701,5.080499655,15,1405.6548139125
+"16","Duvernay Oil","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.165939364,0.165939364259202,"<$20",0.816468536891907,4.4919,5.1881445,16,1405.9037229585
+"17","Cardium Pembina Central South","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",2.3231511,2.32315109962884,"<$20",10.2827110238224,4.526013,5.227545015,17,1409.3884496085
+"18","Montney Kakwa Core AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",28.45860097,28.4586009704532,"<$20",111.111970424878,4.560848,5.26777944,18,1452.0763510635
+"19","Duvernay West North","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",1.659393643,1.65939364259202,"<$20",6.98307212519835,4.563687,5.271058485,19,1454.565441528
+"20","Montney Kaybob AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",4.563332517,4.56333251712807,"<$20",18.6758550924914,4.629199,5.346724845,20,1461.4104403035
+"21","Montney Ante Creek AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",7.135392663,7.13539266314572,"<$20",29.0748393296036,4.756865,5.494179075,21,1472.113529298
+"22","Torquay","Canada (Saskatchewan)","North America",2020,"Tight Oil","Onstream","Non-OPEC",4.620646839,4.62064683911692,"<$20",46.3595969576798,4.76,5.4978,22,1479.0444995565
+"23","Montney Grande Prairie AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",10.70308899,10.7030889947185,"<$20",43.5346923848398,4.948535,5.715557925,23,1495.0991330415
+"24","Deep Basin Charlie Lake AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",6.63757457,6.63757457036811,"<$20",29.5753176232717,4.96113,5.73010515,24,1505.0554948965
+"25","Cardium Pembina West AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",2.572060146,2.57206014601764,"<$20",11.3121092371122,5.026535,5.805647925,25,1508.9135851155
+"26","Cardium Lochend AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",1.244545232,1.24454523194402,"<$20",5.5313272803572,5.045826,5.82792903,26,1510.7804029635
+"27","Midale","Canada (Saskatchewan)","North America",2020,"Tight Oil","Onstream","Non-OPEC",21.90306619,21.9030661854243,"<$20",219.941542829378,5.13,5.92515,27,1543.6350022485
+"28","Saskatchewan Bakken","Canada (Saskatchewan)","North America",2020,"Tight Oil","Onstream","Non-OPEC",19.02266296,19.0226629610398,"<$20",189.666222428894,5.16,5.9598,28,1572.1689966885
+"29","Montney AB Sands AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",3.650666014,3.65066601370246,"<$20",14.453632731634,5.187179,5.991191745,29,1577.6449957095
+"30","Deep Basin Dunvegan AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",5.393029338,5.39302933842409,"<$20",24.2293755918579,5.259878,6.07515909,30,1585.7345397165
+"31","Cardium Northeast AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",1.327514914,1.32751491407362,"<$20",5.74563708122678,5.348549,6.177574095,31,1587.7258120875
+"32","Montney Mulligan AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",0.760630067,0.760630067254676,"<$20",0.27782013206477,5.456702,6.30249081,32,1588.866757188
+"33","Montney Mulligan AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.248909046,0.248909046388804,"<$20",1.20575024310198,5.456702,6.30249081,33,1589.240120757
+"34","Cardium Harmattan Garrington","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",0.995636186,0.995636185555217,"<$20",4.39862703725521,5.602446,6.47082513,34,1590.733575036
+"35","Cardium Pembina East AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",5.890847431,5.8908474312017,"<$20",26.3158993280021,5.605866,6.47477523,35,1599.5698461825
+"36","Cardium Pembina Central North","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",2.73799951,2.73799951027684,"<$20",12.1285777740041,5.655244,6.53180682,36,1603.6768454475
+"37","Viking AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",1.825333007,1.82533300685123,"<$20",7.47081566209026,5.84,6.7452,37,1606.414844958
+"38","Lodgepole MB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",10.2052709,10.2052709019409,"<$20",49.9773443339081,5.88,6.7914,38,1621.722751308
+"39","Shaunavon","Canada (Saskatchewan)","North America",2020,"Tight Oil","Onstream","Non-OPEC",13.32186491,13.3218649127786,"<$20",133.436117011509,6.44,7.4382,39,1641.705548673
+"40","Lower Amaranth MB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",3.401756967,3.40175696731365,"<$20",16.5810828311383,6.73,7.77315,40,1646.8081841235
+"41","Bakken MB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",7.301332027,7.30133202740492,"<$20",35.7107329293493,7.63,8.81265,41,1657.760182164
+"42","Mississipian","Canada (Saskatchewan)","North America",2020,"Tight Oil","Onstream","Non-OPEC",15.06210853,15.062108527511,"<$20",150.857162113083,8.33,9.62115,42,1680.353344959
+"43","Saskatchewan Viking","Canada (Saskatchewan)","North America",2020,"Tight Oil","Onstream","Non-OPEC",23.223251,23.2232509966006,"<$20",233.96499255675,9.23,10.66065,43,1715.188221459
+"44","Bakken AB","Canada (Alberta)","North America",2020,"Tight Oil","Onstream","Non-OPEC",1.659393643,1.65939364259202,"<$20",6.61782212519835,10.5,12.1275,44,1717.6773119235
+"45","Alberta heavy oil","Canada (Alberta)","North America",2020,"Onshore","Onstream","Non-OPEC",58.73000487,58.7300048663626,"<$20",245.817994394583,13,15.015,45,1805.7723192285
+"46","Alberta","Canada (Alberta)","North America",2020,"Onshore","Onstream","Non-OPEC",54.53646988,54.5364698818797,"<$20",232.879184411522,13,15.015,46,1887.5770240485
+"47","Manitoba","Canada (Alberta)","North America",2020,"Onshore","Onstream","Non-OPEC",4.729271881,4.72927188138727,"<$20",22.7326493973439,13,15.015,47,1894.67093187
+"48","Other Saskatchewan heavy oil","Canada (Saskatchewan)","North America",2020,"Onshore","Onstream","Non-OPEC",77.45548141,77.4554814140096,"<$20",485.82233537364,13,15.015,48,2010.854153985
+"49","Other Saskatchewan","Canada (Saskatchewan)","North America",2020,"Onshore","Onstream","Non-OPEC",41.37615238,41.3761523794902,"<$20",260.445372246968,13,15.015,49,2072.918382555
+"50","Hibernia","Canada (East Coast)","North America",2020,"Shallow Water","Onstream","Non-OPEC",78.40891105,78.4089110475882,"<$20",281.92,13.389369755,15.464722067025,50,2190.53174913
+"51","Terra Nova","Canada (East Coast)","North America",2020,"Shallow Water","Onstream","Non-OPEC",28.26668552,28.2666855175834,"<$20",76.33,14.300807345,16.517432483475,51,2232.93177741
+"52","Hebron/Ben Nevis","Canada (East Coast)","North America",2020,"Shallow Water","Onstream","Non-OPEC",121.5946574,121.594657362079,"<$20",596.25,14.48791473,16.73354151315,52,2415.32376351
+"53","Hibernia South Project","Canada (East Coast)","North America",2020,"Shallow Water","Onstream","Non-OPEC",28.83201923,28.8320192279351,"<$20",83.81,20.0395705881442,23.1457040293066,53,2458.571792355
+"54","Norman Wells","Canada (Arctic)","North America",2020,"Onshore","Onstream","Non-OPEC",7.229339013,7.22933901320865,"$25-$30",14.53,33.991445235,33.7975,54,2469.4158008745
+"55","Bakken AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",1.521260135,1.52126013450935,"$30-$35",34.8378593011898,10.5,39.9425,55,2471.697691077
+"56","Deep Basin Charlie Lake AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",11.40945101,11.4094510088201,"$35-$40",103.270019585735,4.96113,46.0875,56,2488.811867592
+"57","Horizon Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",292.6815039,292.681503926896,"$35-$40",4501,70.9059359899999,46.0875,57,2927.834123442
+"58","Montney Kakwa Core AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",60.85040538,60.8504053803741,"$35-$40",618.539567437655,4.560848,46.0875,58,3019.109731512
+"59","Pelican Lake (CNRL)","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",55.63561105,55.6356110486463,"$35-$40",441.3,50.08291764,46.0875,59,3102.563148087
+"60","Seal (Obsidian)","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",5.02543195,5.02543194963591,"$35-$40",10.77,77.08766175,46.0875,60,3110.101296012
+"61","Tucker","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",26.03850751,26.0385075110669,"$35-$40",247.43,53.42869448,46.0875,61,3149.159057277
+"62","White Rose Project","Canada (East Coast)","North America",2020,"Shallow Water","Onstream","Non-OPEC",29.16738668,29.1673866832284,"$35-$40",242.18,22.0239404611043,46.0875,62,3192.910137297
+"63","AOSP","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",238.6863189,238.686318851446,"$40-$45",3294.99,64.3794864912855,52.2325,63,3550.939615647
+"64","Deep Basin Dunvegan AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",6.085040538,6.0850405380374,"$40-$45",175.061753357884,5.259878,52.2325,64,3560.067176454
+"65","Foster Creek","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",156.2310451,156.231045066401,"$40-$45",1255,57.94750455,52.2325,65,3794.413744104
+"66","Jackfish Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",98.07837829,98.0783782916854,"$40-$45",677.53,58.3344392421977,52.2325,66,3941.531311539
+"67","MEG Christina Lake Proj","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",82.43791478,82.4379147800379,"$40-$45",1768,73.40062512,52.2325,67,4065.188183709
+"68","Suncor SAGD Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",177.9298013,177.929801325624,"$40-$45",2414.02,64.001127285,52.2325,68,4332.082885659
+"69","Duvernay Kaybob Fox Creek (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",2.281890202,2.28189020176402,"$45-$50",64.3423155768733,3.706669,58.3775,69,4335.505720962
+"70","Duvernay West North (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",6.845670605,6.84567060529208,"$45-$50",208.673260576833,4.563687,58.3775,70,4345.7742268695
+"71","Fort Hills Mine","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",161.4387466,161.438746568614,"$45-$50",2954.25,71.769282435,58.3775,71,4587.9323467695
+"72","Hangingstone Main","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",19.52888063,19.5288806333002,"$45-$50",219.7,67.075255585,58.3775,72,4617.2256677145
+"73","Lindbergh","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",16.49105476,16.491054757009,"$45-$50",141.4,62.827600215,58.3775,73,4641.9622498545
+"74","MacKay River (PetroChina)","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",14.58156421,14.5815642061974,"$45-$50",332.41,71.55391569,58.3775,74,4663.8345961695
+"75","Montney AB Sands AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",2.281890202,2.28189020176402,"$45-$50",67.5872812361648,5.187179,58.3775,75,4667.2574314725
+"76","Montney Ante Creek AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",7.606300673,7.60630067254676,"$45-$50",149.848169385578,4.756865,58.3775,76,4678.666882482
+"77","Montney Elmworth Karr AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",6.085040538,6.0850405380374,"$45-$50",156.649671156929,3.891156,58.3775,77,4687.794443289
+"78","Montney Grande Prairie AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",15.97323141,15.9732314123481,"$45-$50",313.091006599299,4.948535,58.3775,78,4711.754290404
+"79","Orion","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",16.49105476,16.491054757009,"$45-$50",136.42,58.1452501,58.3775,79,4736.490872544
+"80","Saskatchewan Bakken (Future Drilling)","Canada (Saskatchewan)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",16,16,"$45-$50",120.5325,5.16,58.3775,80,4760.490872544
+"81","Seal","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",5.659035632,5.65903563240521,"$45-$50",40.17,61.1360514,58.3775,81,4768.979425992
+"82","Sunrise Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",47.73726377,47.7372637702893,"$45-$50",748.98,75.373839095,58.3775,82,4840.585321647
+"83","Surmont Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",124.2904759,124.290475852826,"$45-$50",1922.38,68.220686825,58.3775,83,5027.021035497
+"84","Syncrude Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",303.7825876,303.782587629114,"$45-$50",2657.72,37.55986669,58.3775,84,5482.694916897
+"85","BlackGold","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",8.679502504,8.67950250368897,"$50-$55",88.01,53.21455874,64.5225,85,5495.714170653
+"86","Cardium Ferrier Willesden Green (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",10.64882094,10.6488209415654,"$50-$55",121.386665572625,3.793657,64.5225,86,5511.687402063
+"87","Cardium Northwest AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",6.845670605,6.84567060529208,"$50-$55",115.169950910904,4.070045,64.5225,87,5521.9559079705
+"88","CNRL Kirby Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",47.46819919,47.468199192675,"$50-$55",578.15,73.7658371994521,64.5225,88,5593.1582067555
+"89","Hangingstone Pilot","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",2.603850751,2.60385075110669,"$50-$55",6.39,65.862818215,64.5225,89,5597.063982882
+"90","KKD Leismer","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",19.09490551,19.0949055081157,"$50-$55",289.14,59.560273845,64.5225,90,5625.706341147
+"91","Lindbergh","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",0,16.491054757009,"$50-$55",141.4,62.827600215,64.5225,91,5625.706341147
+"92","Long Lake","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",36.45391052,36.4539105154937,"$50-$55",343.83,65.814436875,64.5225,92,5680.387206927
+"93","Lower Amaranth MB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",0.760630067,0.760630067254676,"$50-$55",19.9828200987404,6.73,64.5225,93,5681.5281520275
+"94","MacKay River Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",32.98210951,32.9821095140181,"$50-$55",350.04,60.35767571,64.5225,94,5731.0013162925
+"95","Mississipian (Future Drilling)","Canada (Saskatchewan)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",27,27,"$50-$55",62.0925,8.33,64.5225,95,5771.5013162925
+"96","Shaunavon (Future Drilling)","Canada (Saskatchewan)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",22,22,"$50-$55",69.03225,6.44,64.5225,96,5804.5013162925
+"97","Alberta (Future Drilling)","Canada (Alberta)","North America",2020,"Onshore","Probable Development","Non-OPEC",11.40945101,11.4094510088201,"$55-$60",24.0079416558732,13,70.6675,97,5821.6154928075
+"98","Alberta heavy oil (Future Drilling)","Canada (Alberta)","North America",2020,"Onshore","Probable Development","Non-OPEC",25.10079222,25.1007922194043,"$55-$60",54.5051864863791,13,70.6675,98,5859.2666811375
+"99","Baytex Primary","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",17.64542859,17.6454285899996,"$55-$60",76.57,48.657071685,70.6675,99,5885.7348240225
+"100","Cardium Pembina East AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",5.324410471,5.32441047078273,"$55-$60",111.740222614532,5.605866,70.6675,100,5893.721439729
+"101","Cardium Pembina West AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",2.281890202,2.28189020176402,"$55-$60",56.8210481028003,5.026535,70.6675,101,5897.144275032
+"102","Cold Lake","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",124.1168858,124.116885802752,"$55-$60",614.98,64.2586449625,70.6675,102,6083.319603732
+"103","Duvernay Joffre Oil (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",19.77638175,19.7763817486215,"$55-$60",232.229737135591,4.32,70.6675,103,6112.984176357
+"104","Hangingstone (AOC) Proj","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",9.894632854,9.89463285420543,"$55-$60",83.91,63.7023441,70.6675,104,6127.826125638
+"105","Montney Kaybob AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",3.803150336,3.80315033627338,"$55-$60",51.6249052323942,4.629199,70.6675,105,6133.530851142
+"106","Other Saskatchewan (Future Drilling)","Canada (Saskatchewan)","North America",2020,"Onshore","Probable Development","Non-OPEC",14.9493997,14.9493997020201,"$55-$60",362.52133640312,13,70.6675,106,6155.954950692
+"107","Other Saskatchewan Heavy Oil (Future Drilling)","Canada (Saskatchewan)","North America",2020,"Onshore","Probable Development","Non-OPEC",47.12560249,47.1256024851583,"$55-$60",1231.12616151313,65,70.6675,107,6226.643354427
+"108","Peace River","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",3.471801001,3.47180100147559,"$55-$60",33.34,68.267864455,70.6675,108,6231.8510559285
+"109","Primrose/Wolf Lake","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",86.79502504,86.7950250368897,"$55-$60",563.03,49.2107055425,70.6675,109,6362.0435934885
+"110","Saskatchewan Viking (Future Drilling)","Canada (Saskatchewan)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",52,52,"$55-$60",161.4405,9.23,70.6675,110,6440.0435934885
+"111","Suncor Mine Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",260.3850751,260.385075110669,"$55-$60",1695.79,37.09240598,70.6675,111,6830.6212061385
+"112","Torquay (Future Drilling)","Canada (Saskatchewan)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",11,11,"$55-$60",37.62075,4.76,70.6675,112,6847.1212061385
+"113","Viking AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",3.042520269,3.0425202690187,"$55-$60",40.8214896885579,5.84,70.6675,113,6851.684986542
+"114","Cardium Harmattan Garrington (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",0.760630067,0.760630067254676,"$60-$65",28.6137702807391,5.602446,76.8125,114,6852.8259316425
+"115","Cardium Northeast AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",1.521260135,1.52126013450935,"$60-$65",23.3371531328899,5.348549,76.8125,115,6855.107821845
+"116","Cardium Pembina Central South (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",3.042520269,3.0425202690187,"$60-$65",66.2545931432859,4.526013,76.8125,116,6859.6716022485
+"117","Duvernay Oil (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",1.521260135,1.52126013450935,"$60-$65",61.3984170346827,4.4919,76.8125,117,6861.953492451
+"118","Duvernay Twining (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",6.085040538,6.0850405380374,"$60-$65",117.785690253539,4.32,76.8125,118,6871.081053258
+"119","Great Divide Project","Canada (Oil Sands)","North America",2020,"Canada (Oil Sands)","Onstream","Non-OPEC",12.15130351,12.1513035051645,"$60-$65",100.79,67.4104633657831,76.8125,119,6889.308008523
+"120","Cardium Lochend AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",0.760630067,0.760630067254676,"$65-$70",13.5731192501355,5.045826,82.9575,120,6890.4489536235
+"121","Cardium Pembina Central North (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",2.281890202,2.28189020176402,"$65-$70",62.5134676496791,5.655244,82.9575,121,6893.8717889265
+"122","Midale (Future Drilling)","Canada (Saskatchewan)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",11,11,"$65-$70",79.25925,5.13,82.9575,122,6910.3717889265
+"123","Lodgepole MB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",3.042520269,3.0425202690187,"$70-$75",13.1143059019594,5.88,89.1025,123,6914.93556933
+"124","Cardium Brazeau Stolberg AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",0.760630067,0.760630067254676,"$85-$90",7.28982828367485,4.289769,107.5375,124,6916.0765144305
+"125","Duvernay Pembina AB (Future Drilling)","Canada (Alberta)","North America",2020,"Tight Oil","Probable Development","Non-OPEC",1.521260135,1.52126013450935,"$85-$90",39.0491364478246,4.398701,107.5375,125,6918.358404633

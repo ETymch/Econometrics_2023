@@ -1,0 +1,223 @@
+"","Project.Future.Phase","Country","Years","Development.Type.y","Development.Status.y","OPEC.Status","Production.x","Production.y","Breakeven.Band","Commercial.Liquids.Remaining.Reserves..million.barrels.","Operating.Costs","expected","id","cs_prod"
+"1","Yukola-Neft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",7.125740935,7.12574093481173,"<$20",25.5,3.8653425805,5.02494535465,1,7.125740935
+"2","Kaliningradmorneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",12.28110654,12.2811065353762,"<$20",47.1,4.100272522,5.3303542786,2,19.406847475
+"3","Kara-Altyn Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",9.177090598,9.1770905978636,"<$20",92.59,4.5294812405,5.88832561265,3,28.583938073
+"4","North Urengoi (Nortgas)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",12.15,12.15,"<$20",49.11,4.630434377,6.0195646901,4,40.733938073
+"5","Sakhalin-1 Area","Russian Federation",2020,"Shallow Water","Onstream","Non-OPEC",246.15908,246.159080042632,"<$20",1169.5,4.750351581,6.1754570553,5,286.893018073
+"6","Uraloil Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",9.294053517,9.29405351724813,"<$20",45.69,4.777962977,6.2113518701,6,296.18707159
+"7","Samaraneftegaz Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",215.9315435,215.931543479143,"<$20",2095.94,4.8713620545,6.33277067085,7,512.11861509
+"8","Veselovskoye Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.314900168,0.314900167573751,"<$20",8.21,4.985841734,6.4815942542,8,512.433515258
+"9","MNKT fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",7.035769458,7.03576945836209,"<$20",56.74,5.094778246,6.6232117198,9,519.469284716
+"10","Okruzhnoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.115646308,1.11564630797557,"<$20",7,5.173766726,6.7258967438,10,520.584931024
+"11","Kolganskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",4.498573822,4.49857382248215,"<$20",28.83,5.53428672299999,7.19457273989999,11,525.083504846
+"12","Slad.-Zarech. Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",33.91924662,33.9192466215154,"<$20",122.49,5.57817060299999,7.25162178389999,12,559.002751466
+"13","Sakhalinmorneftegaz","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",25.07410468,25.0741046812612,"<$20",127.83,5.7257925955,7.44353037415,13,584.076856146
+"14","Baituganskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",7.872504189,7.87250418934377,"<$20",84.22,6.380617262,8.2948024406,14,591.949360335
+"15","Samarainvestneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",8.36734731,8.36734730981681,"<$20",54.99,6.40756404399999,8.32983325719999,15,600.316707645
+"16","Bulgarneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.573184226,2.57318422645979,"<$20",15.8,6.45142992,8.386858896,16,602.889891871
+"17","Volgodeminoil Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.823787749,3.82378774910983,"<$20",9.52,6.4960269425,8.44483502525,17,606.71367962
+"18","Orenburgneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",256.7785938,256.778593787281,"<$20",2201.32,6.713277945,8.7272613285,18,863.49227342
+"19","Dagneft fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.339258388,2.33925838769072,"<$20",23.58,6.928645873,9.0072396349,19,865.831531808
+"20","PermTOTIneft","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.463901843,3.46390184331126,"<$20",21.56,7.025136584,9.1326775592,20,869.295433651
+"21","Sokolovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.799429529,1.79942952899286,"<$20",10.03,7.057009674,9.1741125762,21,871.09486318
+"22","TatRITEKneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",21.31424277,21.3142427709204,"<$20",210.14,7.15291281299999,9.29878665689999,22,892.40910595
+"23","Sheshmaoil Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",22.9067379,22.9067379040791,"<$20",129.01,7.218156146,9.3836029898,23,915.31584385
+"24","Samara-Nafta","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",32.05683706,32.0568370590078,"<$20",199.29,7.3071752775,9.49932786075,24,947.37268091
+"25","Mukharmetovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.359885906,0.359885905798572,"<$20",1.44,7.342981478,9.5458759214,25,947.732566816
+"26","Ashirovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.238973152,3.23897315218715,"<$20",11.39,7.37145838299999,9.58289589789999,26,950.971539968
+"27","Pamyatnosasovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",10.39170553,10.3917055299337,"<$20",17.09,7.53017374999999,9.78922587499999,27,961.363245498
+"28","Krasnodarneftegaz","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",11.74938607,11.7493860661697,"<$20",97.51,7.567991298,9.8383886874,28,973.112631568
+"29","Gazpromneft-Orenburg","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",78.04194324,78.041943237629,"<$20",711.24,7.7708187439234,10.1020643671004,29,1051.154574808
+"30","Matyushkinski Block","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.76475755,0.764757549821966,"<$20",4.57,7.9982397885,10.39771172505,30,1051.919332358
+"31","Erginskoye","Russian Federation",2020,"Onshore","Under Development","Non-OPEC",3.8,3.8,"<$20",502.48,8.075770871,10.4985021323,31,1055.719332358
+"32","Tatnefteotdacha Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",13.04586409,13.0458640851982,"<$20",84.54,8.093454109,10.5214903417,32,1068.765196448
+"33","Transoil Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.321264092,2.32126409240079,"<$20",10.45,8.10128433349999,10.53166963355,33,1071.08646054
+"34","LUKOIL-Perm","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",267.2782651,267.278265088954,"<$20",1950.86,8.18683386449999,10.64288402385,34,1338.36472564
+"35","Volgogradneftegaz Other","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",11.21044597,11.2104459656255,"<$20",54.71,8.3380126705,10.83941647165,35,1349.57517161
+"36","North Chaivo","Russian Federation",2020,"Shallow Water","Onstream","Non-OPEC",13.94858741,13.9485874067597,"<$20",26.91,8.493407165,11.0414293145,36,1363.52375902
+"37","Uralnefteservis","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.969058723,2.96905872283822,"<$20",16.01,8.5123277955,11.06602613415,37,1366.492817743
+"38","Tomskneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",144.5391769,144.539176916351,"<$20",1266.97,8.531154827,11.0905012751,38,1511.031994643
+"39","Novosibirskneftegaz","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.006363925,2.00636392482704,"<$20",4.75,8.624158899,11.2114065687,39,1513.038358568
+"40","Bashneft Major Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",145.9517291,145.951729096611,"<$20",919.37,8.642780682272,11.2356148869536,40,1658.990087668
+"41","Udmurtneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",114.0838321,114.083832138147,"<$20",843.93,8.6832102055,11.28817326715,41,1773.073919768
+"42","Yuri Korchagin","Russian Federation",2020,"Shallow Water","Onstream","Non-OPEC",25.93129579,25.9312957890486,"<$20",143.48,8.876905648,11.5399773424,42,1799.005215558
+"43","Bashneft Delta","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",192.5749482,192.574948192816,"<$20",1486.77,8.9287289905,11.60734768765,43,1991.580163758
+"44","Severnaya Neft","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",30.70726491,30.7072649122632,"<$20",275.69,8.94599195799999,11.6297895454,44,2022.287428668
+"45","Tarkhovskoye Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.454904696,3.45490469566629,"<$20",12.7,8.95434186,11.640644418,45,2025.742333364
+"46","CNPSEI Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.854729026,0.85472902627161,"<$20",2.41,9.1035818735,11.83465643555,46,2026.59706239
+"47","Tatneft Small Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",157.4500838,157.450083786875,"<$20",1641.64,9.318750908,12.1143761804,47,2184.04714619
+"48","Tatneft Large Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",99.98530178,99.9853017784884,"<$20",817.41,9.3676450345,12.17793854485,48,2284.03244797
+"49","Romashkinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",282.4024703,282.402470280139,"<$20",3275.42,9.37655292899999,12.1895188077,49,2566.43491827
+"50","Stavropolneftegaz Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",14.1435161,14.1435160978839,"<$20",171.26,9.438302801,12.2697936413,50,2580.57843437
+"51","Vladimir Filanovski","Russian Federation",2020,"Shallow Water","Onstream","Non-OPEC",115.2804528,115.280452774927,"<$20",632.37,9.616223571,12.5010906423,51,2695.85888717
+"52","Peschanoozer (Central)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.062980034,0.0629800335147502,"<$20",0.47,9.655070548,12.5515917124,52,2695.921867204
+"53","Dinyu-Savinoborskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.358569294,1.35856929438961,"<$20",5.04,9.6659489105,12.56573358365,53,2697.280436498
+"54","Orenburgnefteotdacha","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.637480871,1.6374808713835,"<$20",5.7,9.8023105125,12.74300366625,54,2698.917917369
+"55","Saneco Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.220978857,3.22097885689722,"<$20",12.96,9.9467077595,12.93072008735,55,2702.138896226
+"56","Kondaneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",60.11894056,60.1189405636515,"<$20",631.06,10.20763981,13.269931753,56,2762.257836786
+"57","Komnedra Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",8.241387243,8.24138724278731,"<$20",35.73,10.32899305,13.427690965,57,2770.499224029
+"58","Grozneftegaz","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.628483724,1.62848372373854,"<$20",4.93,10.40602892,13.527837596,58,2772.127707753
+"59","West Synatyskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",4.417599494,4.41759949367747,"<$20",18.09,10.41022689,13.533294957,59,2776.545307247
+"60","Pyakyakhinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",31.69201341,31.6920134059,"<$20",273.65,10.43996086,13.571949118,60,2808.237320657
+"61","Ulyanovskneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",10.41869697,10.4186969728686,"<$20",103.33,10.516420145,13.6713461885,61,2818.656017627
+"62","Gazpromneft-Vostok","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",35.3497931,35.3497930970648,"<$20",184.15,10.52854438,13.687107694,62,2854.005810727
+"63","Varyeganneftegaz Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",43.1666795,43.1666795019833,"<$20",333.17,10.58503079,13.760540027,63,2897.172490227
+"64","Novoportovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",150.9470331,150.947033121982,"<$20",1261.23,10.69731636,13.906511268,64,3048.119523327
+"65","Ryabovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.2479703,3.24797029983211,"<$20",18.41,10.887909815,14.1542827595,65,3051.367493627
+"66","Udmurtgeologia","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.826420972,1.82642097192775,"<$20",10.96,10.961019205,14.2493249665,66,3053.193914599
+"67","West Malobalykskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",10.36471409,10.3647140869988,"<$20",25.87,10.984275275,14.2795578575,67,3063.558628689
+"68","Reshetnikovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.214614932,1.21461493207018,"<$20",2.11,11.05383542,14.369986046,68,3064.773243621
+"69","NGH Tomsk Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",5.405337077,5.40533707701419,"<$20",39.32,11.093421235,14.4214476055,69,3070.178580698
+"70","Udmurt National Oil Co.","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.151634899,1.15163489855543,"<$20",10.33,11.178488025,14.5320344325,70,3071.330215597
+"71","Uralskaya Oil","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.368883053,0.368883053443536,"<$20",1.66,11.21130472,14.574696136,71,3071.69909865
+"72","Uraineftegaz Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",67.53259022,67.5325902231021,"<$20",419.47,11.366748415,14.7767729395,72,3139.23168887
+"73","Nizhnechutinskoye","Russian Federation",2020,"Onshore","Under Development","Non-OPEC",0.4,0.399999999999999,"<$20",144.01,11.814297435,15.3585866655,73,3139.63168887
+"74","Krasnolenin (RN-Nyagan)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",115.5323729,115.532372908986,"<$20",1027.33,11.82674948,15.374774324,74,3255.16406177
+"75","Gavrikovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",20.09962784,20.0996278388502,"<$20",266.54,11.883421425,15.4484478525,75,3275.26368961
+"76","Rusvietpetro","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",89.9624793,89.9624793019982,"<$20",521.92,12.01302996,15.616938948,76,3365.22616891
+"77","ONGC (Imperial Energy)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",5.092385567,5.0923855670498,"<$20",73.05,12.10526437,15.736843681,77,3370.318554477
+"78","CanBaikal Contract Area","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",10.37371123,10.3737112346438,"<$20",55.8,12.16149204,15.809939652,78,3380.692265707
+"79","Nizhnevartovsk NP","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",78.50911035,78.5091103499586,"<$20",641.54,12.197200975,15.8563612675,79,3459.201376057
+"80","North Labatyuganskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",83.1066528,83.1066527965353,"<$20",224.16,12.262403705,15.9411248165,80,3542.308028857
+"81","Ardalinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.95369765,0.953697650366217,"<$20",1.54,12.298501185,15.9880515405,81,3543.261726507
+"82","SN-Nizhnevartovsk","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",17.79635804,17.7963580417394,"<$20",175.75,12.312442055,16.0061746715,82,3561.058084547
+"83","Dulisminskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",26.38343958,26.3834395834179,"<$20",124.58,12.403883745,16.1250488685,83,3587.441524127
+"84","Polar Lights Other Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.133640603,1.1336406032655,"<$20",2.47,12.41327289,16.137254757,84,3588.57516473
+"85","Lyantorskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",56.76649795,56.766497949501,"<$20",189.62,12.51386217,16.268020821,85,3645.34166268
+"86","Kogalymskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",28.71889528,28.7188952827261,"<$20",218.04,12.568844345,16.3394976485,86,3674.06055796
+"87","Exillon West Siberia","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",9.267062074,9.26706207431324,"<$20",63.13,12.63176075,16.421288975,87,3683.327620034
+"88","Chayandinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",4.15,4.15,"<$20",364.47,12.6421610464095,16.4348093603324,88,3687.477620034
+"89","Ethane","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",36.73,36.73,"<$20",2410.11,12.6421610464095,16.4348093603324,89,3724.207620034
+"90","EuroSibOil Assets","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.249286911,2.24928691124107,"<$20",22.46,12.6421610464095,16.4348093603324,90,3726.456906945
+"91","Gazprom dobycha Urengoi","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",101.6132743,101.613274325203,"<$20",722.16,12.6421610464095,16.4348093603324,91,3828.070181245
+"92","Koshekhablskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.23,0.23,"<$20",0.55,12.6421610464095,16.4348093603324,92,3828.300181245
+"93","Nizhnedobrinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.575817449,0.575817449277716,"<$20",1.54,12.6421610464095,16.4348093603324,93,3828.875998694
+"94","North Yutymskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.899714764,0.899714764496431,"<$20",5.41,12.6421610464095,16.4348093603324,94,3829.775713458
+"95","Osokinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.377880201,0.377880201088501,"<$20",2.26,12.6421610464095,16.4348093603324,95,3830.153593659
+"96","South Russia Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",75.84595465,75.8459546470491,"<$20",554.16,12.6421610464095,16.4348093603324,96,3905.999548309
+"97","South Tambeiskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",33.35,33.35,"<$20",297.49,12.6421610464095,16.4348093603324,97,3939.349548309
+"98","West Noyabrskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",4.04871644,4.04871644023394,"<$20",61.46,12.6421610464095,16.4348093603324,98,3943.398264749
+"99","Zakamskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.098968624,0.0989686240946074,"<$20",0.46,12.6421610464095,16.4348093603324,99,3943.497233373
+"100","LUKOIL-Komi Other Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",36.2944936,36.294493599786,"<$20",352.55,12.65828588,16.455771644,100,3979.791726973
+"101","Peschanoozer (E&W)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.521834563,0.52183456340793,"<$20",4.36,12.67816492,16.481614396,101,3980.313561536
+"102","Usinskneftegaz Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",107.2639942,107.263994223264,"<$20",701.17,12.69091444,16.498188772,102,4087.577555736
+"103","Izvestinski Block","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.127138589,3.12713858877922,"<$20",13.93,12.708446295,16.5209801835,103,4090.704694325
+"104","Toboisk and Varandeisk","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.385560737,1.3855607373245,"<$20",4.43,12.73839423,16.559912499,104,4092.090255062
+"105","Belkamneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",29.01580116,29.0158011550099,"<$20",150.21,12.79885675,16.638513775,105,4121.106056222
+"106","Ukhtaneftegaz Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",47.30700232,47.3070023172223,"<$20",169.71,12.9495718,16.83444334,106,4168.413058542
+"107","Tursunt","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.331577851,1.33157785145471,"<$20",3.71,13.00991548,16.912890124,107,4169.744636393
+"108","Malochernogorskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.879087246,2.87908724638858,"<$20",12.77,13.027062055,16.9351806715,108,4172.623723639
+"109","Varyngskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.861092951,2.86109295109865,"<$20",22.27,13.10554052,17.037202676,109,4175.48481659
+"110","Uvat Project","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",226.1073175,226.107317465598,"<$20",929.07,13.166108795,17.1159414335,110,4401.59213409
+"111","Regional Oil Consortium","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",12.0291864,12.0291864013172,"<$20",66.61,13.26886407,17.249523291,111,4413.62132049
+"112","Gazpromneft-NoyabrskNG","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",186.2589505,186.258950546051,"<$20",1847.43,13.3129345,17.30681485,112,4599.88027099
+"113","Vareyagskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",13.7656359,13.7656358967954,"<$20",64.04,13.3139723,17.30816399,113,4613.64590689
+"114","LUKOIL-Komi Nenets Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",38.10292028,38.1029202764238,"<$20",184.45,13.3585669793104,17.3661370731035,114,4651.74882717
+"115","Labaganskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",11.69629194,11.6962919384536,"<$20",96.13,13.4137779,17.43791127,115,4663.44511911
+"116","S Shapkinsk and Tedinsk","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",9.339039255,9.33903925547296,"<$20",54.2,13.58283232,17.657682016,116,4672.784158365
+"117","East Kharyaga and Oshsk","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",8.67325033,8.6732503297456,"<$20",40.03,13.58429399,17.659582187,117,4681.457408695
+"118","SurgutNG Other Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",288.3135963,288.313596282881,"<$20",1878.13,13.605267675,17.6868479775,118,4969.771004995
+"119","Aganneftegasgeologiya","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",6.055080365,6.05508036506098,"<$20",24.21,13.670451675,17.7715871775,119,4975.82608536
+"120","SurgutNG Core Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",203.417571,203.417571004454,"<$20",1204.84,13.7195857375495,17.8354614588144,120,5179.24365636
+"121","South Tanlovski area","Russian Federation",2020,"Onshore","Probable Development","Non-OPEC",0.63,0.629999999999999,"<$20",92.16,13.7809026,17.91517338,121,5179.87365636
+"122","Vankorskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",260.4031186,260.403118620608,"<$20",1873.6,13.8094405999999,17.9522727799999,122,5440.27677496
+"123","West Chumpasskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.699144293,2.69914429348929,"<$20",29.66,13.8475053,18.00175689,123,5442.975919253
+"124","Talakan Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",189.335975,189.335975040629,"<$20",1177.48,13.90258036,18.073354468,124,5632.311894253
+"125","South Oshskoye (Neftus)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.879087246,2.87908724638858,"<$20",10.12,13.95068694,18.135893022,125,5635.190981499
+"126","Gazpromneft-Khantos","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",237.0838376,237.083837592454,"<$20",2252.82,14.2101104660154,18.47314360582,126,5872.274819099
+"127","Sotchemyu-Taliyu Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.465218455,2.46521845472022,"<$20",7.86,14.36681718,18.676862334,127,5874.740037554
+"128","Messoyakhaneftegaz Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",93.44437544,93.4443754405994,"<$20",1091.31,14.40263624,18.723427112,128,5968.184412994
+"129","South Oshskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.850779192,3.85077919204472,"<$20",10.42,14.494707355,18.8431195615,129,5972.035192186
+"130","Vankorneft Satellites","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",142.2125803,142.212580275029,"<$20",1194.85,14.5019882329652,18.8525847028548,130,6114.247772486
+"131","East Urengoi (Severneft)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.8,2.8,"<$20",25.47,14.55694435,18.924027655,131,6117.047772486
+"132","Srednebotuobinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",81.6743288,81.6743288046788,"<$20",782.14,14.57247407,18.944216291,132,6198.722101286
+"133","North Russkoye cluster","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",17.28,17.28,"<$20",396.91,14.6016589399999,18.9821566219999,133,6216.002101286
+"134","Termokarstovoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",17.19,17.19,"<$20",63.5,14.64706382,19.041182966,134,6233.192101286
+"135","Verkhnechonskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",130.6586409,130.658640851982,"<$20",825.18,15.01894792,19.524632296,135,6363.850742186
+"136","Udmurt Oil Company","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.931753521,3.9317535208494,"<$20",11.77,15.18906859,19.745789167,136,6367.782495707
+"137","Kolvinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",4.129690769,4.12969076903862,"<$20",30.16,15.380893015,19.9951609195,137,6371.912186476
+"138","NNK-Pechoraneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",4.597542447,4.59754244657676,"<$20",33.62,15.597815165,20.2771597145,138,6376.509728923
+"139","Salym Petroleum Dev.","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",103.6021551,103.602155131764,"<$20",559.63,15.61815136,20.303596768,139,6480.111884023
+"140","Luzskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.449857382,0.449857382248215,"<$20",2.16,15.8133038,20.55729494,140,6480.561741405
+"141","North Samburgskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",13.27978992,13.2797899239673,"<$20",62.55,16.524510855,21.4818641115,141,6493.841531325
+"142","Purneftegaz (Oil Fields)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",58.84950651,58.8495065065661,"<$20",447.73,16.63128442,21.620669746,142,6552.691037835
+"143","South Toraveiskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",14.10752751,14.107527507304,"<$20",78.49,16.7518493199999,21.7774041159999,143,6566.798565345
+"144","Yaregskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",46.75817631,46.7581763108795,"<$20",402.39,16.9545128999999,22.0408667699999,144,6613.556741655
+"145","Tungolski Block","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.493526509,1.49352650906407,"<$20",80.9,17.172645315,22.3244389095,145,6615.050268164
+"146","Yarudeiskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",61.18060399,61.1806039857573,"<$20",322.43,17.49199839,22.739597907,146,6676.230872154
+"147","Kharyaginskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",31.71494545,31.7149454484992,"<$20",146.59,17.81701625,23.162121125,147,6707.945817604
+"148","Vostokgazprom Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",20.94432381,20.9443238134789,"<$20",199.88,17.890522945,23.2576798285,148,6728.890141414
+"149","Urengoiskoye Achimov IV/V","Russian Federation",2020,"Onshore","Under Development","Non-OPEC",7.18,7.18,"<$20",640.27,18.37512904,23.887667752,149,6736.070141414
+"150","Chernogorskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.854729026,0.85472902627161,"<$20",0.95,18.823968215,24.4711586795,150,6736.92487044
+"151","Urengoi Area (Rospan)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",123.3,123.3,"<$20",655.589999999999,19.589117285,25.4658524705,151,6860.22487044
+"152","Trebs and Titov","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",41.38687917,41.3868791668358,"<$20",626.23,19.92316971,25.900120623,152,6901.61174961
+"153","Aki-Otyr Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",35.97959343,35.9795934322123,"$20-$25",325.1,14.54079712,29.25,153,6937.59134304
+"154","Astrakhanskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",65.01,65.01,"$20-$25",875.08,12.6421610464095,29.25,154,7002.60134304
+"155","Exillon Timan-Pechora","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",4.273645131,4.27364513135805,"$20-$25",35.33,6.295115834,29.25,155,7006.874988171
+"156","Fyodorovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",153.8269236,153.826923555873,"$20-$25",1327.67999999999,13.3816148,29.25,156,7160.701911771
+"157","Gazprom dobycha Krasnodar","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.79,2.79,"$20-$25",11.87,12.6421610464095,29.25,157,7163.491911771
+"158","Imilorskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",22.95172364,22.9517236423039,"$20-$25",255.02,14.6157286999999,29.25,158,7186.443635411
+"159","Irkutsk Oil Company","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",157.9595043,157.959504259683,"$20-$25",376.49,21.0037924769328,29.25,159,7344.403139711
+"160","Kamchatgazprom Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.28,0.28,"$20-$25",1.27,12.6421610464095,29.25,160,7344.683139711
+"161","Krasnolenin (RusPetro)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",7.081786572,7.0817865724923,"$20-$25",41.06,15.551461775,29.25,161,7351.764926283
+"162","Kuyumbinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",64.77946304,64.779463043743,"$20-$25",1276.11,16.11526096,29.25,162,7416.544389323
+"163","LUKOIL West Siberia","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",485.1364577,485.136457728429,"$20-$25",3671.18,13.895862115,29.25,163,7901.680847023
+"164","North Danilovskoye (ES)","Russian Federation",2020,"Onshore","Under Development","Non-OPEC",1.66,1.66,"$20-$25",293.19,14.03454929,29.25,164,7903.340847023
+"165","Osoveiskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.349572147,1.34957214674464,"$20-$25",56.5,14.16861902,29.25,165,7904.69041917
+"166","RITEKBeloyarskneft Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",25.82181374,25.8218137410475,"$20-$25",383.15,14.62881667,29.25,166,7930.51223291
+"167","Samotlorskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",365.8600118,365.860011834828,"$20-$25",3794.16,14.5463389418979,29.25,167,8296.37224471
+"168","Saratovneftegaz Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",12.14614932,12.1461493207018,"$20-$25",103.9,13.54435447,29.25,168,8308.51839403
+"169","Shpilman and Rogozhnikov","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",91.43801152,91.4380115157723,"$20-$25",818.53,13.1778506211968,29.25,169,8399.95640555
+"170","Tazovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",12.11915788,12.1191578777669,"$20-$25",123.44,8.460295741,29.25,170,8412.07556343
+"171","TNK-Nizhnevartovsk","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",7.440641102,7.44064110238548,"$20-$25",56.6,12.290355525,29.25,171,8419.516204532
+"172","Uralneftegazprom Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.953754697,0.953754697466931,"$20-$25",7.08,12.6421610464095,29.25,172,8420.469959229
+"173","Urengoiskoye (Achimov I)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",87.4,87.4,"$20-$25",353.99,12.6421610464095,29.25,173,8507.869959229
+"174","Varyeganneft","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",12.84792684,12.847926837009,"$20-$25",97.34,13.63313635,29.25,174,8520.717886069
+"175","Yurubcheno-Tokhomskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",61.76541858,61.76541858268,"$20-$25",920.33,16.88583517,29.25,175,8582.483304649
+"176","Volga Gas Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.759885906,1.75988590579857,"<$20",9.51,22.63882453,29.430471889,176,8584.243190555
+"177","Arcticgas","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",209.9622221,209.962222126937,"$25-$30",1142.65,9.91768143929816,35.75,177,8794.205412655
+"178","Dagneftegaz fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.197937248,0.197937248189214,"$25-$30",0.64,12.6421610464095,35.75,178,8794.403349903
+"179","Goloil Contract Area","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.250603523,1.25060352265003,"$25-$30",5.7,15.93477211,35.75,179,8795.653953426
+"180","Malgobek-Voznesenka","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.539828859,0.539828858697858,"$25-$30",1.71,14.66833676,35.75,180,8796.193782285
+"181","Mokhtikovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.556506543,1.55650654257882,"$25-$30",17.55,17.54848247,35.75,181,8797.750288828
+"182","Naulskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",11.69629194,11.6962919384536,"$25-$30",123.69,13.716693285,35.75,182,8809.446580768
+"183","Norilskgazprom Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.04,0.04,"$25-$30",0.12,12.6421610464095,35.75,183,8809.486580768
+"184","Pelyatkinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2,2,"$25-$30",36.53,12.6421610464095,35.75,184,8811.486580768
+"185","Prirazlomnoye (TP)","Russian Federation",2020,"Shallow Water","Onstream","Non-OPEC",70.17775163,70.1777516307216,"$25-$30",489.42,21.26405638,35.75,185,8881.664332398
+"186","Russkoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",19.79372482,19.7937248189214,"$25-$30",1217.05,18.479646,35.75,186,8901.458057218
+"187","Tomskaya Neft","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",8.538293115,8.53829311507113,"$25-$30",87.43,15.88152538,35.75,187,8909.996350333
+"188","West Asomkinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",7.233706707,7.2337067065513,"$25-$30",54.33,13.087322315,35.75,188,8917.23005704
+"189","Yuganskneftegaz","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1233.436965,1233.43696494344,"$25-$30",10101.44,13.261870905,35.75,189,10150.66702204
+"190","Yurkharovskoye Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",33.11197718,33.1119771811597,"$25-$30",108.45,14.01722566,35.75,190,10183.77899922
+"191","Bortovoy Block","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.35,0.35,"$30-$35",3.02,12.6421610464095,42.25,191,10184.12899922
+"192","NNK-SaratovNGD fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.18,0.18,"$30-$35",0.32,12.6421610464095,42.25,192,10184.30899922
+"193","North Komsomolskoye (WS)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",45.69499208,45.6949920844197,"$30-$35",217.62,18.228125095,42.25,193,10230.0039913
+"194","Sakhalin-3 (Kirinski)","Russian Federation",2020,"Shallow Water","Onstream","Non-OPEC",14.14,14.14,"$30-$35",312.42,8.50579578939574,42.25,194,10244.1439913
+"195","Sibneftegaz","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.15,0.15,"$30-$35",8.35,12.6421610464095,42.25,195,10244.2939913
+"196","South Khylchuyuskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.798112918,2.7981129175839,"$30-$35",3.62,12.72973586,42.25,196,10247.092104218
+"197","Tailakovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",45.6605243,45.6605242981939,"$30-$35",553.05,14.588893245,42.25,197,10292.752628518
+"198","Tarkosaleneftegaz Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",31.75,31.75,"$30-$35",176.459999999999,14.5901098,42.25,198,10324.502628518
+"199","Vasilkovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.07,0.07,"$30-$35",0.41,12.6421610464095,42.25,199,10324.572628518
+"200","Vuktylskoye Group","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.99,1.99,"$30-$35",12.11,12.6421610464095,42.25,200,10326.562628518
+"201","White Nights","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",35.98859058,35.9885905798572,"$30-$35",287.99,19.6151593,42.25,201,10362.551219098
+"202","YATEK Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.2,2.2,"$30-$35",31.06,12.6421610464095,42.25,202,10364.751219098
+"203","Beregovoye (WS)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.98,3.98,"$35-$40",21.55,12.6421610464095,48.75,203,10368.731219098
+"204","Kharampurneftegaz","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",18.18059764,18.1805976395624,"$35-$40",139.32,12.6421610464095,48.75,204,10386.911816738
+"205","Orenburgskoye (Main)","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",3.97,3.97,"$35-$40",29.56,12.6421610464095,48.75,205,10390.881816738
+"206","Slavneft-Megionneftegaz","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",122.2172536,122.217253609195,"$35-$40",891.51,16.195070045,48.75,206,10513.099070338
+"207","South Khadyryakhinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.86,0.86,"$35-$40",1.3,12.6421610464095,48.75,207,10513.959070338
+"208","Srednebotuobinskoye North","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.14,0.14,"$35-$40",1.97,12.6421610464095,48.75,208,10514.099070338
+"209","Syskonsyninskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.06,0.06,"$35-$40",0.12,12.6421610464095,48.75,209,10514.159070338
+"210","Achimovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",7.197718116,7.19771811597145,"$40-$45",38.52,16.16642876,55.25,210,10521.356788454
+"211","North Orekhovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.91770906,0.91770905978636,"$40-$45",3.39,16.3727995999999,55.25,211,10522.274497514
+"212","SN-MegionNGG","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",2.97805587,2.97805587048318,"$40-$45",13.49,16.302096145,55.25,212,10525.252553384
+"213","Tatneft EVO Fields","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",39.13759226,39.1375922555947,"$40-$45",181.04,34.82915549,55.25,213,10564.390145644
+"214","Bovanenkovskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.6,1.6,"$45-$50",262.79,20.91353558,61.75,214,10565.990145644
+"215","Gazprom dobycha Nadym","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.62,1.62,"$45-$50",25.31,12.6421610464095,61.75,215,10567.610145644
+"216","Gazprom Dobycha Noyabrsk","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",1.06,1.06,"$45-$50",47.32,12.6421610464095,61.75,216,10568.670145644
+"217","Yamburgskoye (Achimov)","Russian Federation",2020,"Onshore","Under Development","Non-OPEC",2.45,2.45,"$45-$50",252.01,18.792779425,61.75,217,10571.120145644
+"218","Yamburgskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",44.9,44.9,"$45-$50",291,20.50866338,61.75,218,10616.020145644
+"219","Zapolyarnoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",42.94,42.94,"$45-$50",224.62,12.6421610464095,61.75,219,10658.960145644
+"220","Tight Oil Russia","Russian Federation",2020,"Tight Oil","Other Discoveries","Non-OPEC",6.443421886,6.44342188604525,"$60-$65",1537.709221,12.5333108553011,81.25,220,10665.40356753
+"221","Sakhalin-2 Area","Russian Federation",2020,"Shallow Water","Onstream","Non-OPEC",107.1006221,107.100622098127,"$70-$75",547.46,10.4176491097881,94.25,221,10772.50418963
+"222","Kovyktinskoye","Russian Federation",2020,"Onshore","Onstream","Non-OPEC",0.14,0.14,"$85-$90",293.68,10.623698845,113.75,222,10772.64418963
